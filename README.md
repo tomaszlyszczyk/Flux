@@ -1,4 +1,4 @@
-# Fluxd
+# Flux SISAL
 
 Flux is an App for executing structured workouts on a smart trainer.
 
